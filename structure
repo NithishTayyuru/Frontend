@@ -1,0 +1,31 @@
+```
+event-management-frontend/
+│
+├── src/
+│   ├── components/
+│   │   ├── AuthGuard.js
+│   │   ├── Navbar.js
+│   │   ├── EventCard.js
+│   │   ├── EventDetails.js
+│   │   ├── SearchBar.js
+│   │   └── ProfileEvents.js
+│   │
+│   ├── pages/
+│   │   ├── LandingPage.js
+│   │   ├── HomePage.js
+│   │   ├── EventPage.js
+│   │   └── ProfilePage.js
+│   │
+│   ├── context/
+│   │   └── AuthContext.js
+│   │
+│   ├── services/
+│   │   ├── authService.js
+│   │   └── eventService.js
+│   │
+│   ├── App.js
+│   └── index.js
+│
+├── package.json
+└── tailwind.config.js
+```
